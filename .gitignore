@@ -1,5 +1,6 @@
 .env
 sharing_recipe/recipe/migrations/*
+db.sqlite3
 
 recipes/node_modules
 recipes/.pnp
